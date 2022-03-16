@@ -2,7 +2,7 @@
 
 #prepared by
   1. Haimanot Dubale
-  2. Ydidiya Kedir
+  2. Yididya Kedir
 
 
 Four Wheeled ros controled car robot that simulate A* path planing
